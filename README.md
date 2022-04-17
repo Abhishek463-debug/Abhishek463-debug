@@ -4,8 +4,8 @@
 - ✨ Important Programming Concepts: Memory management, Semantic Analysis, Data Structures And Algorithms, Asynchronization and Synchronization in Concurrency, Big O notation, Parsing, Filesystems, I/O streams, Serialization and Deserialization, Caching, Design Patterns
 - 🗃  Databases: SQL server, MongoDB
 - 🛠  Tools: Maven, Gradle, Eclipse, VSCode, Visual Studio, PyCharm, SSMS & SSAS, Basic Microsoft Things like MSWord, MSPPT, Tableau, Cargo (Package Manager for Rust),  Command Prompt, Terminal, PowerShell, Pip(Package manager for Python)
-- ⚙  Frameworks: Spring, SpringBoot , .NET, Unreal Game Engine, OpenGL (WIP), Unity (WIP)
-- 👻 Areas of Interest: Artificial Intelligence/Machine Learning, Robotics, Operating Systems, Compilers, Data Analytics, API designs, Systems Designing, UI/UX
+- ⚙  Frameworks: JUnit, Spring, SpringBoot , .NET, Unreal Game Engine, OpenGL (WIP), Unity (WIP)
+- 👻 Areas of Interest: Artificial Intelligence/Machine Learning, Robotics, Operating Systems, Compilers, Data Analytics, API designs, Systems Designing, CI/CD , UI/UX
 
 -Other things: HTML/CSS/JS/React, I guess.
 
