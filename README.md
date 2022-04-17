@@ -10,7 +10,9 @@
 -Other things: HTML/CSS/JS/React, I guess.
 
 MY MOTTO: Don't get bitter, get better.
-- 📫 Colloborate with me! : abhishek.swamy@yahoo.com
+- 📫 Collaborate with me! : abhishek.swamy@yahoo.com
+
+- 👀 Eager to learn new technologies!
 
 <!---
 Abhishek463-debug/Abhishek463-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
