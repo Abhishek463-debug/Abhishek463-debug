@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek!
 - 🐱‍👤 Favorite Programming Languages: C++ 🐀, Rust 🦀, Java ☕, Python 🐍!
 - 🌱 Other Programming Languages: C#, Kotlin, C, Dart, Scala, Go, and many more!
-- ✨ Important Programming Concepts: Memory management, Semantic Analysis, Data Structures And Algorithms, Asynchronization and Synchronization in Concurrency, Big O notation, Parsing, Filesystems, I/O streams, Serialization and Deserialization, Caching, Design Patterns, Garbage Collectors
+- ✨ Important Programming Concepts: Memory management, Semantic Analysis, Data Structures And Algorithms, Asynchronization and Synchronization in Concurrency, Big O notation, Parsing, Filesystems, I/O streams, Serialization and Deserialization, Caching, Design Patterns, Garbage Collectors, Object-Oriented Programming, Functional Programming, Procedural Programming, Data-oriented Designing, Object-Relational Mapping
 - 🗃  Databases: SQL server, MongoDB
 - 🛠  Tools: Maven, Gradle, Eclipse, VSCode, Visual Studio, PyCharm, SSMS & SSAS, Basic Microsoft Things like MSWord, MSPPT, Tableau, Cargo (Package Manager for Rust),  Command Prompt, Terminal, PowerShell, Pip(Package manager for Python)
 - ⚙  Frameworks: JUnit, Spring, SpringBoot , .NET, Unreal Game Engine, OpenGL (WIP), Unity (WIP)
