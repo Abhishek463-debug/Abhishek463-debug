@@ -14,6 +14,8 @@ MY MOTTO: Don't get bitter, get better.
 
 - 👀 Eager to learn new technologies! 
 
+- Losing interest in Java! Just don't like the people who do Java right now!
+
 <!---
 Abhishek463-debug/Abhishek463-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
