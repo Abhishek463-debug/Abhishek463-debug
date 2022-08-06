@@ -10,13 +10,9 @@
 -Other things: HTML/CSS/JS/React, I guess.
 
 MY MOTTO: Don't get bitter, get better.
-- 📫 Collaborate with me! : abhishek.swamy@yahoo.com
 
 - 👀 Eager to learn new technologies! 
 
-- Losing interest in Java! Just don't like the people who do Java right now!
-
-- UPDATE: I just don't like the friends I'd have if I did Python and Java and C# and so as a result, I'm moving onto other languages like Rust! (My favorite)
 
 <!---
 Abhishek463-debug/Abhishek463-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
